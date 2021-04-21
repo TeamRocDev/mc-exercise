@@ -1,1 +1,2 @@
 branch 
+Our sample team has four members: Bob, Carol, Ted, and Alice. Add a file called FUBAR.md to the main branch of the repo. When we start, everyone is totally in sync and freshly pulled from main on their individual laptops, and has FUBAR.md. Bob and Carol are pair-programming one feature in FUBAR.md on Carol’s laptop in a new feature branch, and Ted and Alice are working on another feature in a different non-main feature branch on Ted’s laptop, also in FUBAR.md.
